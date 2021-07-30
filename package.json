@@ -1,4 +1,8 @@
 {
+  "name": "zelda",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "engines": {
     "node": ">=0.10.3 <15"
   }
